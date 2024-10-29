@@ -9,4 +9,6 @@ NotPixel: https://t.me/notpixel/app?startapp=f6452801533
 CodexFieldWallet: https://t.me/codexfieldbot/wallet?startapp=RFE915zc46ji
 Seed: https://t.me/seed_coin_bot/app?startapp=6452801533
 4everland: https://t.me/tg_4everland_bot?start=t-torenkai
+Bitget wallet: https://t.me/BitgetWallet_TGBot/BGW?startapp=sharetask-2w3jQ5rz8bKiSGzUA
+PAWS: https://t.me/PAWSOG_bot/PAWS?startapp=RpX9U5bH
 .............
