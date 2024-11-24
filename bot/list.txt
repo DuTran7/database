@@ -12,4 +12,5 @@ Seed: https://t.me/seed_coin_bot/app?startapp=6452801533
 Bitget wallet: https://t.me/BitgetWallet_TGBot/BGW?startapp=sharetask-2w3jQ5rz8bKiSGzUA
 PAWS: https://t.me/PAWSOG_bot/PAWS?startapp=RpX9U5bH
 Ton Kombat: https://t.me/Ton_kombat_bot/app?startapp=6452801533
+Wizzwoods: https://t.me/WizzwoodsBot/app?startapp=rp_2673007
 .............
